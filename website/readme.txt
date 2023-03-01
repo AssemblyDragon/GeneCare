@@ -1,0 +1,1 @@
+To run the website, Run 'index.html' using any web browser (preferably Google Chrome).
